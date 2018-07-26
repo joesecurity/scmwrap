@@ -13,7 +13,7 @@ SettingContent-ms Wrapper removes does limitations. It enables to execute Settin
 
 How to use it? First install SettingContent-ms Wrapper (you need Administrator privileges):
 
-        scmwrap.exe --install
+        scmwrap.exe -install
 
 To launch a SettingContent-Ms file simply double click. SettingContent-Ms files are also launched correctly by third party application e.g. Adobe Reader via /OpenAction or Word via VBA Macro:
 
