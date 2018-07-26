@@ -5,6 +5,7 @@
 SettingContent-ms files have been recently used by various loaders to infect endpoints:
 
 [Windows .SettingContent-ms Files Weaponized to Bypass Security, Deliver Malware](https://blog.barkly.com/windows-settingcontent-ms-files-weaponized-deep-link-technique)
+
 [TA505 Abusing SettingContent-ms within PDF files to Distribute FlawedAmmyy RAT](https://www.proofpoint.com/us/threat-insight/post/ta505-abusing-settingcontent-ms-within-pdf-files-distribute-flawedammyy-rat)
 
 SettingContent-ms only works on Windows 10 and only if the Windows search is enabled. 
