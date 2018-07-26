@@ -9,7 +9,7 @@ SettingContent-ms files have been recently used by various loaders to infect end
 
 **SettingContent-ms only works on Windows 10 and only if the Windows Search is enabled.**
 
-SettingContent-ms Wrapper removes does limitations. It enables to execute SettingContent-ms files on any Windows version as well as Windows 10 with Windows Search disabled. 
+SettingContent-ms Wrapper removes those limitations. It enables to execute SettingContent-ms files on any Windows version as well as Windows 10 with Windows Search disabled. 
 
 How to use it? First install SettingContent-ms Wrapper (you need Administrator privileges):
 
