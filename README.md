@@ -1,4 +1,4 @@
-![SettingContentWrapper](img/error.png)
+![SettingContentWrapper](img/error.jpg)
 
 # SettingContent-ms Wrapper
 
